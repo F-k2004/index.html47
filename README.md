@@ -14,7 +14,7 @@ canvas{display:block}
   color:#d9f3ff;
   font-size:13px;
 }
-</style>
+<style>
 </head>
 <body>
 
